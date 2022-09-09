@@ -10,6 +10,7 @@ e-commerce
 
 - Iniciar el back y el front con el siguiente comando en la raiz del proyecto
 
-´´´ npm start ´´´
+**_ npm start _**
 
 - luego dirigirse al menu Listado de Productos
+  [Puede ingresar a travez de este link](http://localhost:3000/ProductsRowList)
